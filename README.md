@@ -1,18 +1,18 @@
-## Welcome to my profile! <br/> Hello World :earth_americas: 
-# Vinicius Okamoto
+# Vinicius Okamoto :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniokamoto)](https://github.com/viniokamoto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-okamoto)](https://www.linkedin.com/in/vinicius-okamoto)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511995475030&text=Olá!)](https://api.whatsapp.com/send?phone=5511995475030&text=Olá!)
-<!--
-**ViniOkamoto/ViniOkamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF1B1B?style=flat-square&labelColor=FF1B1B&logo=instagram&logoColor=white&link=https://www.instagram.com/viniokamoto/)](https://www.instagram.com/viniokamoto/)
 
-A Japanese boy, full stack programmer, fan of flutter, javascript and typescript, passionate about UI and UX, lover of nature and geek culture.
 
-- 🔭 I’m currently discover and
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: you can find me by my email leo_kamoto@outlook.com ...
-- ⚡ See
+## Welcome to my profile! Hello World :earth_americas: 
+
+A brazilian boy, full stack programmer, fan of flutter, javascript and typescript, passionate about UI and UX, lover of nature and geek culture, and hackathons competitor.
+
+- 👯 I’m looking to collaborate on frontend projects!
+- 🚧 Currently developing an Internet Banking app
+- 💬 Ask me about Flutter, APIS, First Projects, Deploy...
+- 📫 How to reach me: you can find me by my email leo_kamoto@outlook.com
+- 📚 I'm currently learning Angular/React and improving Flutter skills
+- 🏆 7th place in the top 10 on Megahack, 2th place in HackaTrouble
