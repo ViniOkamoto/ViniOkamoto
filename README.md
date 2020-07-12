@@ -15,5 +15,5 @@ A brazilian boy, full stack programmer, fan of flutter, javascript and typescrip
 - 💬 Ask me about Flutter, APIS, First Projects, Deploy...
 - 📫 How to reach me: you can find me by my email leo_kamoto@outlook.com
 - 📚 I'm currently learning Angular/React and improving Flutter skills
-- 🏆 7th place in the top 10 on Megahack, 2th place in HackaTrouble
+- 🏆 7th place in the top 10 on Megahack, 2th place on HackaTrouble
 - 💻 My languages: Flutter, React, Angular, NodeJS, Spring, .NET, etc...
