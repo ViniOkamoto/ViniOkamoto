@@ -13,7 +13,6 @@ A brazilian boy, full stack programmer, fan of flutter, javascript and typescrip
 - 👯 I’m looking to collaborate on frontend projects!
 - 🚧 Currently developing an Internet Banking app
 - 💬 Ask me about Flutter, APIS, First Projects, Deploy...
-- 📫 How to reach me: you can find me by my email leo_kamoto@outlook.com
 - 📚 I'm currently learning Angular/React and improving Flutter skills
 - 🏆 7th place in the top 10 on Megahack, 2th place on HackaTrouble
 - 💻 My knowledges: Flutter, React, Angular, NodeJS, Spring, .NET, Docker, AWS, Azure etc...
