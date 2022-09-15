@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniokamoto)](https://github.com/viniokamoto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-okamoto)](https://www.linkedin.com/in/vinicius-okamoto)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=14312786470&text=Hello there!)](https://api.whatsapp.com/send?phone=14312786470&text=Hello there!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF1B1B?style=flat-square&labelColor=FF1B1B&logo=instagram&logoColor=white&link=https://www.instagram.com/viniokamoto/)](https://www.instagram.com/viniokamoto/)
 
 
