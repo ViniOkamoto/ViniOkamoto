@@ -10,7 +10,6 @@ A Brazilian boy, full-stack programmer, a fan of flutter, javascript and typescr
 - 💻 My knowledge: Flutter, React, Angular, NodeJS, Spring, .NET, Docker, AWS, Azure etc...
 
 <h2 align="center">
-<details open>
   <summary>Activity</summary>
   <br>
   <img height="160em" src="https://github-readme-stats-viniokamoto.vercel.app/api?username=viniokamoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -21,8 +20,4 @@ A Brazilian boy, full-stack programmer, a fan of flutter, javascript and typescr
   [![GitHub Streak](https://streak-stats.demolab.com/?user=viniokamoto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   <br><br>
-
-  ![Snake animation](https://github.com/viniokamoto/viniokamoto/blob/output/github-snake-dark.svg)
-  <br><br>
-</details>
 <br>
