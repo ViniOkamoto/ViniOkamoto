@@ -1,6 +1,6 @@
 ## Welcome to my profile! Hello World :earth_americas: 
 
-A Brazilian boy, full-stack programmer, a fan of flutter, javascript and typescript, passionate about UI and UX, lover of nature and geek culture, and hackathons competitor.
+A full-stack programmer, a fan of flutter, javascript and typescript, passionate about UI and UX, lover of nature and geek culture, and hackathons competitor.
 
 - 👯 I’m looking to collaborate on frontend projects!
 - 📚 Currently studying Technology Management
